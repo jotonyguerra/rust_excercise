@@ -23,3 +23,13 @@ fn main() {
     };
     println!("Hubble is {}", hubble);
 }
+
+
+//Bonus
+/*
+Implement the PartialOrd trait to compare satellites
+
+Define new Alititude Trait.
+
+
+*/
